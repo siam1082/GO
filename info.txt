@@ -1,0 +1,9 @@
+execution speed 
+faster > js, python , ruby , php 
+compilation speed > 
+
+
+
+Go compiled to native machine code 
+
+c, c++, rust and then Go 
